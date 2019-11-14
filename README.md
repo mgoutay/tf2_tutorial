@@ -1,5 +1,5 @@
 # tf2_tutorial
-Here are some slides and a notebook that covers the basic about Tensorflow 2.0.
+Here are some slides and a notebook that covers the basics about Tensorflow 2.0.
 
 
 
