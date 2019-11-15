@@ -1,5 +1,5 @@
-# tf2_tutorial
-Here are some slides and a notebook that covers the basics about Tensorflow 2.0.
+# Tensorflow 2.0 tutorial
+Here are some slides and a notebook that covers the basics about Tensorflow 2.0 using an MNSIT classifier.
 
 
 
