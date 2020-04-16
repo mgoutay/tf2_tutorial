@@ -1,9 +1,9 @@
 # Tensorflow 2.0 tutorial
-Here are some slides and a notebook that covers the basics about Tensorflow 2.0 using an MNSIT classifier.
+Here are some [slides](https://github.com/mgoutay/tf2_tutorial/blob/master/Training_school_TF2.0_V3.pdf) and a [notebook](https://colab.research.google.com/github/mgoutay/tf2_tutorial/blob/master/MNIST_tutorial.ipynb) that covers the basics about Tensorflow 2.0 using an MNSIT classifier.
 
 
 
-Here, you will find the PowerPoint presentation, the associated PDF, and the the notebook version of the tutorial. It is also available for you [to try on Google Collab](https://colab.research.google.com/github/mgoutay/tf2_tutorial/blob/master/MNIST_tutorial.ipynb).
+Here, you will find the [PowerPoint presentation](https://github.com/mgoutay/tf2_tutorial/blob/master/Training_school_TF2.0_V3.pptx), the [associated PDF](https://github.com/mgoutay/tf2_tutorial/blob/master/Training_school_TF2.0_V3.pdf), and the the [notebook version](https://github.com/mgoutay/tf2_tutorial/blob/master/MNIST_tutorial.ipynb) of the tutorial. It is also available for you [to try on Google Collab](https://colab.research.google.com/github/mgoutay/tf2_tutorial/blob/master/MNIST_tutorial.ipynb).
 
 
 The following are discussed :
